@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "teamoxio-website",
+  "private_key_id": "860ddd50a27774ff4f6eaab98dd163cbffdf3a70",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDqzaJ9K2DsPKKD\nqBWvizSk2HfSGapqAoy7XOWdTEr0QL944JbceYrj6yRCyVpuHWDW7cImqP9v2rHc\n80keorOsJC5Vla1wXFo4aSDf/dVaWgdO+6lVltzSJAeaxu7P+uUdQzdo+oCfZwVV\nUvCvycMFpmbcEdh1gwZMuDCw+/HiNzoV1zykrIV+6QtqE/97RXLjhf7HCjJANYd5\nd+QwOKUpaQcRGQppP2RJQcOE6hpdJbF4LUMhOsnjBF6bhx8o8QcT7hO5A7CQ5G27\n3j/vv6i7YclA+hWDhwrKfnMBW9Ph4Q1m4jDMJOnlyZNtK/QXPCEraXOlMWtnnuDS\nmy5nILn7AgMBAAECggEAPu5gV4Xx0z8pG3pIXaVEtc3ix2fjmcgXKfxq+i7BhBd6\neg5PwMW+qPmT3WaUGyE6nEBbIft3guYtd5epCFH5L/D+jiewtYW7FJVwnzgsH6wz\ne0LODseBZb0MYLpitVF8aMxkJHnHUXHOJyE0qxi7cV85AFC0IEK+xH81ZaoRGVzK\ngp+ljAHLvYGKeH3oz9m0suyv7gEJBraeR5hByKdPmz4LolBC508ofPeoJsmDeugj\n/4xBrZssDDXTqTB79Eslr02AAjH12a5iLQoeuHLz+QSAzKkJGctyaQ6gCeD5iC0N\nfVbkoUiAgYbXlEU0fRSpPusIGMLZH6qOiz4MPWff4QKBgQD24Jo52EPSzW+D43K0\njlzP31nSfhwwUSfzgWrCGMqC2A+S0UKuQpevkYM1ecu5O3OMzP2jC4/BWsEKCUi1\ny1nwZLJllbQ7qntLPtUsydkxy/JoISqfOlSNIgV9awXu9yTRuv+3hCz6BrBeTMQq\nKcqcq73ggxPKMHT9d3hWVBYuqwKBgQDzetB8t/w1p55JVhd1Md4P83bxJXS/by6e\nTJNBlpODgbKqgThEk2idu2aCSjsaC8RRpmMoQW/0H1uoL0CJkFKEJYQ955W0a7DF\nKYFJyzzIaCXxA+rWGcsNloBvQwrb6GFaDaxuo6PJilBbDDGefdSIE1lUuoHCAB7h\nn+PCQ7Bh8QKBgQCbbB1MK23PicwZ4Rh2uWWO7NMUpJZEiOM49xHp7keYBkQPrzRm\nlr/+JQLQqMPr8pS1YNyRSBcRqHv9QIkJAmO15v802wGjyplibsUwNEdLhVUv3ymB\nIuzWCUQhiD4tCmSgsTSKKWlTYuCoDXY2ASdwaOLaNEtCMC2G4S7eUoPAjwKBgQCB\nUwiOVkNWVHPUzC+lhhlHK7BPoe+DBxEh79Z/jfVIcolt2zkB47I7paBrL/Z4fSuH\nmvMsHKXUaxuKF58V8lyB6FN3dhykOlcoQkVz5smgQQF2JPiFRCoAS6Jodpm7+JBM\n/tpJ4g1LLXZFBhMM9hT/OhfG01G8s8ezW/Pj6YQ0YQKBgQCrhl05m2OYw3cwE/9Y\n6sECrwbUKh+K94C52fXUH/AWFznV8v27Ls04d4hngwM036PJHdlBF4+L7ByQ1JAz\nIWdKbh68jEq6TiAtV2Nzmmiy2S4MWG+FhvfW1bYVdOcXFXPJ8PZdruuuXEEqqpb3\ntlWetfhxzaww4HNViIo6xJYgOA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "genlem@teamoxio-website.iam.gserviceaccount.com",
+  "client_id": "103615729582233539780",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/genlem%40teamoxio-website.iam.gserviceaccount.com"
+}
