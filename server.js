@@ -6,7 +6,7 @@ const app = require("./backend/app");
 
 const server = http.createServer(app);
 
-server.listen(3000, "54.219.12.195",()=>{
+server.listen(80, ()=>{
     console.log("listening");
 });
 
