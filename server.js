@@ -6,7 +6,7 @@ const app = require("./backend/app");
 
 const server = http.createServer(app);
 
-server.listen(80, ()=>{
+server.listen(3000, ()=>{
     console.log("listening");
 });
 
