@@ -5,6 +5,7 @@ const config = require('../config');
 const SECRET = config.SECRET;
 
 auth.post('/login', (req, res, next) => {
+    console.log("login")
 
     User.findOne({email: req.body.email}).then((data) => {
         if (data && data.login(req.body.password)) {
